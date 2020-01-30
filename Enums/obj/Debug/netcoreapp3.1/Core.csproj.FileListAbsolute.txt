@@ -1,0 +1,8 @@
+C:\Users\Bora Kasmer\source\repos\Enums\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Bora Kasmer\source\repos\Enums\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Bora Kasmer\source\repos\Enums\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Bora Kasmer\source\repos\Enums\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\Bora Kasmer\source\repos\Enums\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Bora Kasmer\source\repos\Enums\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Bora Kasmer\source\repos\Enums\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Bora Kasmer\source\repos\Enums\obj\Debug\netcoreapp3.1\Core.pdb

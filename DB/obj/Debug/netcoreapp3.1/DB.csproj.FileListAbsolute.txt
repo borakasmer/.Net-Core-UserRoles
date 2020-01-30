@@ -1,0 +1,10 @@
+C:\Users\Bora Kasmer\source\repos\DB\bin\Debug\netcoreapp3.1\DB.deps.json
+C:\Users\Bora Kasmer\source\repos\DB\bin\Debug\netcoreapp3.1\DB.dll
+C:\Users\Bora Kasmer\source\repos\DB\bin\Debug\netcoreapp3.1\DB.pdb
+C:\Users\Bora Kasmer\source\repos\DB\obj\Debug\netcoreapp3.1\DB.AssemblyInfoInputs.cache
+C:\Users\Bora Kasmer\source\repos\DB\obj\Debug\netcoreapp3.1\DB.AssemblyInfo.cs
+C:\Users\Bora Kasmer\source\repos\DB\obj\Debug\netcoreapp3.1\DB.dll
+C:\Users\Bora Kasmer\source\repos\DB\obj\Debug\netcoreapp3.1\DB.pdb
+C:\Users\Bora Kasmer\source\repos\DB\bin\Debug\netcoreapp3.1\DB.runtimeconfig.json
+C:\Users\Bora Kasmer\source\repos\DB\bin\Debug\netcoreapp3.1\DB.runtimeconfig.dev.json
+C:\Users\Bora Kasmer\source\repos\DB\obj\Debug\netcoreapp3.1\DB.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Bora Kasmer\source\repos\RoleModel\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\Bora Kasmer\source\repos\RoleModel\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Bora Kasmer\source\repos\RoleModel\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Bora Kasmer\source\repos\RoleModel\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\Users\Bora Kasmer\source\repos\RoleModel\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\Bora Kasmer\source\repos\RoleModel\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\Bora Kasmer\source\repos\RoleModel\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\Bora Kasmer\source\repos\RoleModel\obj\Debug\netcoreapp3.1\Models.pdb
